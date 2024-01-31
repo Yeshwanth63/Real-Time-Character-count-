@@ -15,7 +15,7 @@ function countsub() {
    // console.log(count1);
 }
 
-var suppressEvent = false
+
 
 function keyHandle(e){
 countadd();
